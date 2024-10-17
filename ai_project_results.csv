@@ -1,0 +1,401 @@
+Name,PreTestScore,PostTestScore,SeatingArrangement,PerformanceCategory,PredictedPerformance
+Student 1,56,56,Circle,Needs Improvement,True
+Student 1,56,62,Semi-circle,Needs Improvement,True
+Student 1,56,56,Triangle,Needs Improvement,True
+Student 1,56,56,Trapezoid,Needs Improvement,True
+Student 2,56,62,Circle,Needs Improvement,True
+Student 2,56,54,Semi-circle,Needs Improvement,True
+Student 2,56,55,Triangle,Needs Improvement,True
+Student 2,56,62,Trapezoid,Needs Improvement,True
+Student 3,60,65,Circle,Needs Improvement,True
+Student 3,60,60,Semi-circle,Needs Improvement,True
+Student 3,60,56,Triangle,Needs Improvement,True
+Student 3,60,63,Trapezoid,Needs Improvement,True
+Student 4,73,73,Circle,Good,False
+Student 4,73,75,Semi-circle,Good,False
+Student 4,73,70,Triangle,Needs Improvement,True
+Student 4,73,70,Trapezoid,Needs Improvement,True
+Student 5,73,76,Circle,Good,False
+Student 5,73,71,Semi-circle,Good,False
+Student 5,73,70,Triangle,Needs Improvement,True
+Student 5,73,69,Trapezoid,Needs Improvement,True
+Student 6,61,68,Circle,Needs Improvement,True
+Student 6,61,62,Semi-circle,Needs Improvement,True
+Student 6,61,62,Triangle,Needs Improvement,True
+Student 6,61,57,Trapezoid,Needs Improvement,True
+Student 7,76,84,Circle,Good,False
+Student 7,76,82,Semi-circle,Good,False
+Student 7,76,71,Triangle,Good,False
+Student 7,76,78,Trapezoid,Good,False
+Student 8,69,75,Circle,Good,False
+Student 8,69,68,Semi-circle,Needs Improvement,True
+Student 8,69,66,Triangle,Needs Improvement,True
+Student 8,69,67,Trapezoid,Needs Improvement,True
+Student 9,56,57,Circle,Needs Improvement,True
+Student 9,56,60,Semi-circle,Needs Improvement,True
+Student 9,56,55,Triangle,Needs Improvement,True
+Student 9,56,53,Trapezoid,Needs Improvement,True
+Student 10,53,58,Circle,Needs Improvement,True
+Student 10,53,50,Semi-circle,Needs Improvement,True
+Student 10,53,55,Triangle,Needs Improvement,True
+Student 10,53,57,Trapezoid,Needs Improvement,True
+Student 11,75,77,Circle,Good,False
+Student 11,75,73,Semi-circle,Good,False
+Student 11,75,71,Triangle,Good,False
+Student 11,75,77,Trapezoid,Good,False
+Student 12,61,66,Circle,Needs Improvement,True
+Student 12,61,59,Semi-circle,Needs Improvement,True
+Student 12,61,54,Triangle,Needs Improvement,True
+Student 12,61,60,Trapezoid,Needs Improvement,True
+Student 13,67,72,Circle,Good,False
+Student 13,67,67,Semi-circle,Needs Improvement,False
+Student 13,67,61,Triangle,Needs Improvement,True
+Student 13,67,68,Trapezoid,Needs Improvement,True
+Student 14,71,78,Circle,Good,False
+Student 14,71,71,Semi-circle,Good,True
+Student 14,71,69,Triangle,Needs Improvement,True
+Student 14,71,68,Trapezoid,Needs Improvement,True
+Student 15,75,74,Circle,Good,False
+Student 15,75,81,Semi-circle,Good,False
+Student 15,75,71,Triangle,Good,False
+Student 15,75,78,Trapezoid,Good,False
+Student 16,63,67,Circle,Needs Improvement,True
+Student 16,63,67,Semi-circle,Needs Improvement,True
+Student 16,63,63,Triangle,Needs Improvement,True
+Student 16,63,63,Trapezoid,Needs Improvement,True
+Student 17,65,64,Circle,Needs Improvement,True
+Student 17,65,65,Semi-circle,Needs Improvement,True
+Student 17,65,65,Triangle,Needs Improvement,True
+Student 17,65,70,Trapezoid,Needs Improvement,True
+Student 18,74,80,Circle,Good,False
+Student 18,74,71,Semi-circle,Good,False
+Student 18,74,75,Triangle,Good,True
+Student 18,74,76,Trapezoid,Good,False
+Student 19,58,62,Circle,Needs Improvement,True
+Student 19,58,54,Semi-circle,Needs Improvement,True
+Student 19,58,58,Triangle,Needs Improvement,True
+Student 19,58,61,Trapezoid,Needs Improvement,True
+Student 20,60,60,Circle,Needs Improvement,True
+Student 20,60,56,Semi-circle,Needs Improvement,True
+Student 20,60,60,Triangle,Needs Improvement,True
+Student 20,60,58,Trapezoid,Needs Improvement,True
+Student 21,52,49,Circle,Needs Improvement,True
+Student 21,52,58,Semi-circle,Needs Improvement,True
+Student 21,52,49,Triangle,Needs Improvement,True
+Student 21,52,57,Trapezoid,Needs Improvement,True
+Student 22,56,62,Circle,Needs Improvement,True
+Student 22,56,60,Semi-circle,Needs Improvement,True
+Student 22,56,55,Triangle,Needs Improvement,True
+Student 22,56,60,Trapezoid,Needs Improvement,True
+Student 23,57,55,Circle,Needs Improvement,True
+Student 23,57,53,Semi-circle,Needs Improvement,True
+Student 23,57,56,Triangle,Needs Improvement,True
+Student 23,57,59,Trapezoid,Needs Improvement,True
+Student 24,79,84,Circle,Good,False
+Student 24,79,80,Semi-circle,Good,False
+Student 24,79,74,Triangle,Good,False
+Student 24,79,82,Trapezoid,Good,False
+Student 25,71,79,Circle,Good,False
+Student 25,71,70,Semi-circle,Needs Improvement,True
+Student 25,71,64,Triangle,Needs Improvement,True
+Student 25,71,69,Trapezoid,Needs Improvement,True
+Student 26,54,53,Circle,Needs Improvement,True
+Student 26,54,50,Semi-circle,Needs Improvement,True
+Student 26,54,51,Triangle,Needs Improvement,True
+Student 26,54,59,Trapezoid,Needs Improvement,True
+Student 27,72,76,Circle,Good,False
+Student 27,72,79,Semi-circle,Good,False
+Student 27,72,73,Triangle,Good,False
+Student 27,72,77,Trapezoid,Good,True
+Student 28,59,58,Circle,Needs Improvement,True
+Student 28,59,61,Semi-circle,Needs Improvement,True
+Student 28,59,52,Triangle,Needs Improvement,True
+Student 28,59,58,Trapezoid,Needs Improvement,True
+Student 29,78,79,Circle,Good,False
+Student 29,78,79,Semi-circle,Good,False
+Student 29,78,77,Triangle,Good,False
+Student 29,78,80,Trapezoid,Good,False
+Student 30,62,70,Circle,Needs Improvement,True
+Student 30,62,61,Semi-circle,Needs Improvement,True
+Student 30,62,61,Triangle,Needs Improvement,True
+Student 30,62,68,Trapezoid,Needs Improvement,True
+Student 31,68,71,Circle,Good,False
+Student 31,68,66,Semi-circle,Needs Improvement,False
+Student 31,68,70,Triangle,Needs Improvement,True
+Student 31,68,72,Trapezoid,Good,False
+Student 32,70,73,Circle,Good,False
+Student 32,70,70,Semi-circle,Needs Improvement,False
+Student 32,70,73,Triangle,Good,True
+Student 32,70,75,Trapezoid,Good,True
+Student 33,72,78,Circle,Good,False
+Student 33,72,75,Semi-circle,Good,False
+Student 33,72,65,Triangle,Needs Improvement,False
+Student 33,72,68,Trapezoid,Needs Improvement,True
+Student 34,74,82,Circle,Good,False
+Student 34,74,79,Semi-circle,Good,False
+Student 34,74,70,Triangle,Needs Improvement,True
+Student 34,74,78,Trapezoid,Good,False
+Student 35,52,55,Circle,Needs Improvement,True
+Student 35,52,53,Semi-circle,Needs Improvement,True
+Student 35,52,52,Triangle,Needs Improvement,True
+Student 35,52,58,Trapezoid,Needs Improvement,True
+Student 36,58,59,Circle,Needs Improvement,True
+Student 36,58,54,Semi-circle,Needs Improvement,True
+Student 36,58,53,Triangle,Needs Improvement,True
+Student 36,58,63,Trapezoid,Needs Improvement,True
+Student 37,61,66,Circle,Needs Improvement,True
+Student 37,61,67,Semi-circle,Needs Improvement,True
+Student 37,61,59,Triangle,Needs Improvement,True
+Student 37,61,64,Trapezoid,Needs Improvement,True
+Student 38,58,58,Circle,Needs Improvement,True
+Student 38,58,54,Semi-circle,Needs Improvement,True
+Student 38,58,51,Triangle,Needs Improvement,True
+Student 38,58,63,Trapezoid,Needs Improvement,True
+Student 39,69,73,Circle,Good,False
+Student 39,69,67,Semi-circle,Needs Improvement,True
+Student 39,69,64,Triangle,Needs Improvement,True
+Student 39,69,65,Trapezoid,Needs Improvement,True
+Student 40,54,51,Circle,Needs Improvement,True
+Student 40,54,57,Semi-circle,Needs Improvement,True
+Student 40,54,47,Triangle,Needs Improvement,True
+Student 40,54,60,Trapezoid,Needs Improvement,True
+Student 41,66,65,Circle,Needs Improvement,True
+Student 41,66,63,Semi-circle,Needs Improvement,True
+Student 41,66,64,Triangle,Needs Improvement,True
+Student 41,66,68,Trapezoid,Needs Improvement,True
+Student 42,54,51,Circle,Needs Improvement,True
+Student 42,54,50,Semi-circle,Needs Improvement,True
+Student 42,54,49,Triangle,Needs Improvement,True
+Student 42,54,51,Trapezoid,Needs Improvement,True
+Student 43,70,77,Circle,Good,False
+Student 43,70,72,Semi-circle,Good,False
+Student 43,70,69,Triangle,Needs Improvement,True
+Student 43,70,69,Trapezoid,Needs Improvement,True
+Student 44,72,80,Circle,Good,False
+Student 44,72,76,Semi-circle,Good,False
+Student 44,72,75,Triangle,Good,False
+Student 44,72,68,Trapezoid,Needs Improvement,True
+Student 45,55,59,Circle,Needs Improvement,True
+Student 45,55,55,Semi-circle,Needs Improvement,True
+Student 45,55,51,Triangle,Needs Improvement,True
+Student 45,55,52,Trapezoid,Needs Improvement,True
+Student 46,55,57,Circle,Needs Improvement,True
+Student 46,55,61,Semi-circle,Needs Improvement,True
+Student 46,55,48,Triangle,Needs Improvement,True
+Student 46,55,59,Trapezoid,Needs Improvement,True
+Student 47,77,85,Circle,Good,False
+Student 47,77,79,Semi-circle,Good,False
+Student 47,77,72,Triangle,Good,False
+Student 47,77,76,Trapezoid,Good,False
+Student 48,77,85,Circle,Good,False
+Student 48,77,77,Semi-circle,Good,False
+Student 48,77,72,Triangle,Good,False
+Student 48,77,82,Trapezoid,Good,False
+Student 49,52,51,Circle,Needs Improvement,True
+Student 49,52,51,Semi-circle,Needs Improvement,True
+Student 49,52,51,Triangle,Needs Improvement,True
+Student 49,52,51,Trapezoid,Needs Improvement,True
+Student 50,58,55,Circle,Needs Improvement,True
+Student 50,58,61,Semi-circle,Needs Improvement,True
+Student 50,58,57,Triangle,Needs Improvement,True
+Student 50,58,55,Trapezoid,Needs Improvement,True
+Student 51,57,54,Circle,Needs Improvement,True
+Student 51,57,63,Semi-circle,Needs Improvement,True
+Student 51,57,58,Triangle,Needs Improvement,True
+Student 51,57,61,Trapezoid,Needs Improvement,True
+Student 52,67,71,Circle,Good,False
+Student 52,67,73,Semi-circle,Good,False
+Student 52,67,62,Triangle,Needs Improvement,True
+Student 52,67,69,Trapezoid,Needs Improvement,True
+Student 53,77,84,Circle,Good,False
+Student 53,77,82,Semi-circle,Good,False
+Student 53,77,73,Triangle,Good,False
+Student 53,77,73,Trapezoid,Good,False
+Student 54,51,48,Circle,Needs Improvement,True
+Student 54,51,51,Semi-circle,Needs Improvement,True
+Student 54,51,48,Triangle,Needs Improvement,True
+Student 54,51,57,Trapezoid,Needs Improvement,True
+Student 55,72,78,Circle,Good,False
+Student 55,72,77,Semi-circle,Good,False
+Student 55,72,67,Triangle,Needs Improvement,False
+Student 55,72,70,Trapezoid,Needs Improvement,True
+Student 56,65,65,Circle,Needs Improvement,True
+Student 56,65,64,Semi-circle,Needs Improvement,True
+Student 56,65,65,Triangle,Needs Improvement,True
+Student 56,65,66,Trapezoid,Needs Improvement,True
+Student 57,73,71,Circle,Good,False
+Student 57,73,77,Semi-circle,Good,False
+Student 57,73,69,Triangle,Needs Improvement,True
+Student 57,73,79,Trapezoid,Good,True
+Student 58,66,71,Circle,Good,True
+Student 58,66,65,Semi-circle,Needs Improvement,True
+Student 58,66,64,Triangle,Needs Improvement,True
+Student 58,66,69,Trapezoid,Needs Improvement,True
+Student 59,69,69,Circle,Needs Improvement,False
+Student 59,69,74,Semi-circle,Good,True
+Student 59,69,64,Triangle,Needs Improvement,True
+Student 59,69,73,Trapezoid,Good,True
+Student 60,78,77,Circle,Good,False
+Student 60,78,76,Semi-circle,Good,False
+Student 60,78,72,Triangle,Good,False
+Student 60,78,79,Trapezoid,Good,False
+Student 61,52,57,Circle,Needs Improvement,True
+Student 61,52,51,Semi-circle,Needs Improvement,True
+Student 61,52,45,Triangle,Needs Improvement,True
+Student 61,52,51,Trapezoid,Needs Improvement,True
+Student 62,50,51,Circle,Needs Improvement,True
+Student 62,50,49,Semi-circle,Needs Improvement,True
+Student 62,50,51,Triangle,Needs Improvement,True
+Student 62,50,53,Trapezoid,Needs Improvement,True
+Student 63,56,55,Circle,Needs Improvement,True
+Student 63,56,52,Semi-circle,Needs Improvement,True
+Student 63,56,49,Triangle,Needs Improvement,True
+Student 63,56,62,Trapezoid,Needs Improvement,True
+Student 64,68,71,Circle,Good,False
+Student 64,68,71,Semi-circle,Good,False
+Student 64,68,66,Triangle,Needs Improvement,True
+Student 64,68,69,Trapezoid,Needs Improvement,False
+Student 65,55,54,Circle,Needs Improvement,True
+Student 65,55,56,Semi-circle,Needs Improvement,True
+Student 65,55,55,Triangle,Needs Improvement,True
+Student 65,55,61,Trapezoid,Needs Improvement,True
+Student 66,76,75,Circle,Good,False
+Student 66,76,77,Semi-circle,Good,False
+Student 66,76,69,Triangle,Needs Improvement,False
+Student 66,76,72,Trapezoid,Good,False
+Student 67,54,53,Circle,Needs Improvement,True
+Student 67,54,53,Semi-circle,Needs Improvement,True
+Student 67,54,49,Triangle,Needs Improvement,True
+Student 67,54,50,Trapezoid,Needs Improvement,True
+Student 68,66,68,Circle,Needs Improvement,True
+Student 68,66,67,Semi-circle,Needs Improvement,True
+Student 68,66,61,Triangle,Needs Improvement,True
+Student 68,66,70,Trapezoid,Needs Improvement,True
+Student 69,54,58,Circle,Needs Improvement,True
+Student 69,54,50,Semi-circle,Needs Improvement,True
+Student 69,54,51,Triangle,Needs Improvement,True
+Student 69,54,52,Trapezoid,Needs Improvement,True
+Student 70,77,75,Circle,Good,False
+Student 70,77,77,Semi-circle,Good,False
+Student 70,77,74,Triangle,Good,False
+Student 70,77,79,Trapezoid,Good,False
+Student 71,50,49,Circle,Needs Improvement,True
+Student 71,50,47,Semi-circle,Needs Improvement,True
+Student 71,50,52,Triangle,Needs Improvement,True
+Student 71,50,55,Trapezoid,Needs Improvement,True
+Student 72,71,78,Circle,Good,False
+Student 72,71,70,Semi-circle,Needs Improvement,True
+Student 72,71,71,Triangle,Good,True
+Student 72,71,74,Trapezoid,Good,True
+Student 73,67,70,Circle,Needs Improvement,False
+Student 73,67,70,Semi-circle,Needs Improvement,False
+Student 73,67,61,Triangle,Needs Improvement,True
+Student 73,67,73,Trapezoid,Good,True
+Student 74,59,57,Circle,Needs Improvement,True
+Student 74,59,64,Semi-circle,Needs Improvement,True
+Student 74,59,52,Triangle,Needs Improvement,True
+Student 74,59,62,Trapezoid,Needs Improvement,True
+Student 75,50,55,Circle,Needs Improvement,True
+Student 75,50,56,Semi-circle,Needs Improvement,True
+Student 75,50,49,Triangle,Needs Improvement,True
+Student 75,50,52,Trapezoid,Needs Improvement,True
+Student 76,78,85,Circle,Good,False
+Student 76,78,81,Semi-circle,Good,False
+Student 76,78,80,Triangle,Good,False
+Student 76,78,76,Trapezoid,Good,False
+Student 77,67,73,Circle,Good,False
+Student 77,67,71,Semi-circle,Good,False
+Student 77,67,69,Triangle,Needs Improvement,True
+Student 77,67,69,Trapezoid,Needs Improvement,True
+Student 78,74,75,Circle,Good,False
+Student 78,74,74,Semi-circle,Good,False
+Student 78,74,67,Triangle,Needs Improvement,True
+Student 78,74,77,Trapezoid,Good,False
+Student 79,63,63,Circle,Needs Improvement,True
+Student 79,63,65,Semi-circle,Needs Improvement,True
+Student 79,63,57,Triangle,Needs Improvement,True
+Student 79,63,60,Trapezoid,Needs Improvement,True
+Student 80,72,75,Circle,Good,False
+Student 80,72,71,Semi-circle,Good,False
+Student 80,72,73,Triangle,Good,False
+Student 80,72,77,Trapezoid,Good,True
+Student 81,79,82,Circle,Good,False
+Student 81,79,85,Semi-circle,Good,False
+Student 81,79,81,Triangle,Good,False
+Student 81,79,80,Trapezoid,Good,False
+Student 82,66,67,Circle,Needs Improvement,True
+Student 82,66,71,Semi-circle,Good,True
+Student 82,66,64,Triangle,Needs Improvement,True
+Student 82,66,67,Trapezoid,Needs Improvement,True
+Student 83,60,62,Circle,Needs Improvement,True
+Student 83,60,56,Semi-circle,Needs Improvement,True
+Student 83,60,60,Triangle,Needs Improvement,True
+Student 83,60,60,Trapezoid,Needs Improvement,True
+Student 84,77,79,Circle,Good,False
+Student 84,77,80,Semi-circle,Good,False
+Student 84,77,73,Triangle,Good,False
+Student 84,77,78,Trapezoid,Good,False
+Student 85,62,63,Circle,Needs Improvement,True
+Student 85,62,60,Semi-circle,Needs Improvement,True
+Student 85,62,61,Triangle,Needs Improvement,True
+Student 85,62,65,Trapezoid,Needs Improvement,True
+Student 86,69,68,Circle,Needs Improvement,False
+Student 86,69,75,Semi-circle,Good,True
+Student 86,69,64,Triangle,Needs Improvement,True
+Student 86,69,65,Trapezoid,Needs Improvement,True
+Student 87,73,73,Circle,Good,False
+Student 87,73,79,Semi-circle,Good,False
+Student 87,73,72,Triangle,Good,True
+Student 87,73,78,Trapezoid,Good,True
+Student 88,54,60,Circle,Needs Improvement,True
+Student 88,54,54,Semi-circle,Needs Improvement,True
+Student 88,54,53,Triangle,Needs Improvement,True
+Student 88,54,58,Trapezoid,Needs Improvement,True
+Student 89,61,63,Circle,Needs Improvement,True
+Student 89,61,57,Semi-circle,Needs Improvement,True
+Student 89,61,63,Triangle,Needs Improvement,True
+Student 89,61,66,Trapezoid,Needs Improvement,True
+Student 90,50,48,Circle,Needs Improvement,True
+Student 90,50,51,Semi-circle,Needs Improvement,True
+Student 90,50,52,Triangle,Needs Improvement,True
+Student 90,50,53,Trapezoid,Needs Improvement,True
+Student 91,62,64,Circle,Needs Improvement,True
+Student 91,62,58,Semi-circle,Needs Improvement,True
+Student 91,62,61,Triangle,Needs Improvement,True
+Student 91,62,62,Trapezoid,Needs Improvement,True
+Student 92,71,75,Circle,Good,False
+Student 92,71,70,Semi-circle,Needs Improvement,True
+Student 92,71,73,Triangle,Good,True
+Student 92,71,69,Trapezoid,Needs Improvement,True
+Student 93,54,56,Circle,Needs Improvement,True
+Student 93,54,58,Semi-circle,Needs Improvement,True
+Student 93,54,51,Triangle,Needs Improvement,True
+Student 93,54,50,Trapezoid,Needs Improvement,True
+Student 94,79,80,Circle,Good,False
+Student 94,79,80,Semi-circle,Good,False
+Student 94,79,81,Triangle,Good,False
+Student 94,79,84,Trapezoid,Good,False
+Student 95,65,67,Circle,Needs Improvement,True
+Student 95,65,67,Semi-circle,Needs Improvement,True
+Student 95,65,61,Triangle,Needs Improvement,True
+Student 95,65,61,Trapezoid,Needs Improvement,True
+Student 96,79,81,Circle,Good,False
+Student 96,79,82,Semi-circle,Good,False
+Student 96,79,81,Triangle,Good,False
+Student 96,79,84,Trapezoid,Good,False
+Student 97,71,73,Circle,Good,False
+Student 97,71,71,Semi-circle,Good,True
+Student 97,71,65,Triangle,Needs Improvement,True
+Student 97,71,70,Trapezoid,Needs Improvement,True
+Student 98,59,65,Circle,Needs Improvement,True
+Student 98,59,57,Semi-circle,Needs Improvement,True
+Student 98,59,61,Triangle,Needs Improvement,True
+Student 98,59,55,Trapezoid,Needs Improvement,True
+Student 99,73,75,Circle,Good,False
+Student 99,73,73,Semi-circle,Good,False
+Student 99,73,73,Triangle,Good,True
+Student 99,73,75,Trapezoid,Good,True
+Student 100,51,48,Circle,Needs Improvement,True
+Student 100,51,57,Semi-circle,Needs Improvement,True
+Student 100,51,47,Triangle,Needs Improvement,True
+Student 100,51,54,Trapezoid,Needs Improvement,True
